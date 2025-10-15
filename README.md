@@ -20,7 +20,7 @@ Med drugim je v direktoriju prisotna datoteka environment.yml. V terminal vpiši
 
 `conda env create --name membrana --file environment.yml`
 
-in ko vas sistem pozove še `y + Enter`.
+in ko sistem zahteva še `y + Enter`.
 
 Aktivirajte okolje tako, da v terminal vpišete:
 
