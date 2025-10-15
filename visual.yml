@@ -1,0 +1,9 @@
+name: simulacija-membrane
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - vmd
+  - requests
+  - compilers
+  - cmake
