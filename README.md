@@ -1,3 +1,4 @@
+<img width="844" height="373" alt="github" src="https://github.com/user-attachments/assets/5c969333-8403-4580-95a9-a9caa8300452" />
 
 # Exascale Day 2025: Simulacija POPC membrane
 
