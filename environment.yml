@@ -1,0 +1,14 @@
+name: simulacija-membrane
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - gromacs=2023.3=nompi*
+  - notebook
+  - numpy==1.26.4
+  - matplotlib
+  - compilers
+  - openmpi
+  - cmake
+  - requests
+  - vmd

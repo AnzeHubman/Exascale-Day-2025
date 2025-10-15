@@ -1,0 +1,14 @@
+#include "parametri/martini_v3.0.0.itp"
+#include "parametri/martini_v3.0.0_phospholipids_v1.itp"
+#include "parametri/martini_v3.0.0_solvents_v1.itp"
+
+[ system ]
+; name
+POPC bilayer
+
+
+[ molecules ]
+; name  number
+POPC           361
+POPC           361
+W            10011
